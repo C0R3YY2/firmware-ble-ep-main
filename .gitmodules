@@ -1,0 +1,3 @@
+[submodule "lib/jv_LSM6DSO32_lib/LSM6DSO32"]
+	path = lib/jv_LSM6DSO32_lib/LSM6DSO32
+	url = https://github.com/STMicroelectronics/lsm6dso32-pid.git
